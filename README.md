@@ -27,3 +27,13 @@ Pairwise comparison of criteria in each category – e.g. blue or green? Which o
 Calculate the priorities and a consistency index – were my comparisons logical and consistent?
 
 Evaluate alternatives according to the priorities identified – what alternative optimum solution is there to the decision problem?
+
+
+The pair-wise comparison is used to compare the importance of criteria. It can be carried out with nine-point scale value which includes values 9, 8, 7, 6...., 1/7, 1/8, 1/9, which indicates 9 as extreme preference, 7 as very strong preference, 5 as strong preference and so on down to 1 which represents no preference. Thus, the pair-wise comparison aids to simplify the criteria by evaluating the independent contribution of each criterion with each other. The square matrix is organized for pairwise comparisons of various criteria. The principal eigenvalue and their corresponding eigenvector was developed among the relative importance within the criteria from the comparison matrix. The weights for each element can be generated from the normalized eigenvector. The subjective judgment from AHP were checked via consistency index. The consistency index (CI) is calculated as:
+
+CI = ( λmax - n ) / ( n - 1 )
+Where CI = Consitency Index
+λmax = maximum eigenvector of the matrix
+n = order of the matrix
+
+After comparing CI with random index, Consistency Ratio (CR) can be derived from their ratio. The consistency ratio should be ≤ 0.1 (Saaty, 1990). The pairwise comparison is assumed to be inconsistent if the CR exceeds the threshold, the process has to be reviewed in such case.
