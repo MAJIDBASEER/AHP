@@ -13,3 +13,17 @@ In the final step of the process, numerical priorities are calculated for each o
 The AHP is most useful when finding decisions to complex problems with high stakes. It stands out from other decision-making techniques as it quantifies criteria and options that traditionally are difficult to measure with hard numbers. Rather than prescribing a "correct" decision, AHP helps decision makers find one that best suits their values and their understanding of the problem. (Wikipedia)
 
 Having all stake holders weigh in is important, as various divisions will value criteria differently. For example, when deciding on new software, Sales may be focused on its ease of use, whereas Admin care more about its integrations to other systems. AHP is also different from a regular poll or meeting as it takes out bias from the decision.AHP boosts morale as everyone feels their voices are heard, and they can ultimately understand how a decision is made.
+
+# Calculations 
+
+The basic steps involving AHP are as following.
+
+Define the goal of the decision – what do I want to decide, for what purpose, and what are my alternatives?
+
+Structure the decision problem in a hierarchy – what are the categories and criteria that figure into my decision?
+
+Pairwise comparison of criteria in each category – e.g. blue or green? Which one I prefer, and by how much do I prefer one or the other color?
+
+Calculate the priorities and a consistency index – were my comparisons logical and consistent?
+
+Evaluate alternatives according to the priorities identified – what alternative optimum solution is there to the decision problem?
